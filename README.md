@@ -1,4 +1,4 @@
-# <h1 align="center"> Hi, I'm Krish Chothani 👋</h1>
+# <h1 align="center"> Hi, I'm Jay Thesiya 👋</h1>
 <div align="center">💻 Full Stack Dev | Turning coffee into code & ideas into startups. Always hacking, building, scaling.</div>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
