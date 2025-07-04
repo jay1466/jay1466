@@ -89,5 +89,5 @@ You can view my resume here: [View Resume](https://drive.google.com/file/d/1Cslr
 [![An image of @krishchothani's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/krishchothani)](https://holopin.io/@krishchothani)
 
 ## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/krishchothw) 
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jay1466)
 
