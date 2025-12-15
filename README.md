@@ -32,13 +32,9 @@
     <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jay1466&theme=highcontrast" />
 </div>
 
-<!-- Divider GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-<!-- GitHub Streak -->
-<div align="center" style="display: flex; align-items: center; justify-content: center; margin-top: 0; padding-top: 0;">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=jay1466&theme=highcontrast&hide_border=true" style="z-index: 2; margin-top: 0; padding-top: 0;"/>
-</div>
+
+
 
 <!-- Divider GIF -->
 <img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" width="100%">
@@ -77,17 +73,6 @@
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-<h3  align="center"> HOLOPIN Badges <h3></h3>
-<p align="center">
-<img src="https://assets.holopin.io/hf2024levels/level1-sloth-code-coffee-0-0-0.webp"  width="200">
-<img src="https://assets.holopin.io/hf2024levels/level2-sloth-code-coffee-robe-0-0.webp"  width="200">
-<img src="https://assets.holopin.io/hf2024levels/level3-sloth-code-coffee-robe-sparkle-0.webp"  width="200">
-<img src="https://assets.holopin.io/hf2024levels/level4-sloth-code-coffee-robe-sparkle-moon.webp"  width="200">
-
-
-
-
 
 
 
