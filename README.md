@@ -9,7 +9,7 @@
 
 <!-- Profile Views Counter -->
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=jay1466&color=FFD700&style=for-the-badge&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=jay1466&color=000000&style=for-the-badge&label=Profile+Views" />
 </p>
 
 </div>
