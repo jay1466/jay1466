@@ -44,18 +44,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40"/>
 </p>
 
-### 🏅 Badges Earned (GSSOC'25)
+### 📈 GitHub Stats
 <p align="left">
-<img src="https://gssoc.girlscript.tech/badges/1.png?imwidth=256" width="70">
-<img src="https://gssoc.girlscript.tech/badges/2.png?imwidth=256" width="70">
-<img src="https://gssoc.girlscript.tech/badges/3.png?imwidth=256" width="70">
-<img src="https://gssoc.girlscript.tech/badges/4.png?imwidth=256" width="70">
-<img src="https://gssoc.girlscript.tech/badges/5.png?imwidth=256" width="70">
-<img src="https://gssoc.girlscript.tech/badges/6.png?imwidth=256" width="70">
-<br>
-<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png"  width="120">
-<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png"  width="120">
-<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png"  width="120">
+<img src="https://github-readme-stats.vercel.app/api?username=jay1466&show_icons=true&theme=github_dark&hide_border=true" width="100%"/>
 </p>
 
 ### 📊 GitHub Profile Summary
@@ -106,9 +97,7 @@
 - 🔗 [View My Portfolio](https://www.jaythesiya.me)
 - 💻 Languages Used: Java, C++, JavaScript
 
-<p>
-<img src="https://leetcard.jacoblin.cool/jaythesiya?theme=dark&font=Marcellus&ext=heatmap" width="90%" />
-</p>
+
 
 <p>
 <img src="https://raw.githubusercontent.com/jay1466/jay1466/output/github-snake-dark.svg" width="100%"/>
