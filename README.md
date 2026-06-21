@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=JAY%20THESIYA&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=B.%20Tech%20IT%20%7C%20ADIT%20%7C%20Open-Source%20Contributor&descAlignY=52&descSize=18&descColor=fff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=JAY%20THESIYA&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Java%20Developer%20%7C%20Spring%20Boot%20Developer%20%7C%20Open-Source%20Contributor&descAlignY=52&descSize=18&descColor=fff"/>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=2600&pause=900&color=FFD700&center=true&vCenter=true&width=420&lines=Full+Stack+Development;Java+%7C+Spring+Boot+%7C+Microservices;Building+Scalable+Web+Apps" />
@@ -17,31 +17,25 @@
 ---
 
 ## 🧑‍💻 About Me & Focus
-<table>
-<tr>
-<td width="60%">
-<ul>
-  <li>🎯 <strong>Current Focus:</strong> Java Full Stack Development (Spring Boot + React)</li>
-  <li>🏗️ <strong>Architecture:</strong> Microservices & Event-Driven Systems</li>
-  <li>🧠 <strong>Algorithms:</strong> Competitive Programming & Data Structures</li>
-  <li>🌱 <strong>Community:</strong> Open-Source Contributions (GSSoC'25)</li>
-</ul>
+
+I am a passionate **Java & Spring Boot Developer** who loves building scalable applications and microservices. 
+
+- 🎯 **Current Focus:** Java Full Stack Development (Spring Boot + React)
+- 🏗️ **Architecture:** Microservices & Event-Driven Systems (Kafka, Redis)
+- 🧠 **Algorithms:** Competitive Programming & Data Structures
+- 🌱 **Community:** Open-Source Contributions (GSSoC'25)
 
 <br>
-<strong>📜 Coding Profiles & Socials:</strong><br>
-<a href="https://codolio.com/profile/jaythesiya">Codolio</a> • <a href="https://linkedin.com/in/jaythesiya">LinkedIn</a> • <a href="https://www.jaythesiya.me">Portfolio</a>
-</td>
-<td width="40%">
-  <strong>🧠 Core Principles:</strong>
-  <ul>
-    <li>🔁 Consistency over perfection</li>
-    <li>🧱 Discipline over motivation</li>
-    <li>⚙️ Execution over noise</li>
-    <li>🏆 Results over words</li>
-  </ul>
-</td>
-</tr>
-</table>
+
+### 📜 Coding Profiles & Socials
+<p align="left">
+  <a href="https://www.jaythesiya.me/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/jay-thesiya/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://codolio.com/profile/jay1466"><img src="https://img.shields.io/badge/Codolio-FFB300?style=for-the-badge&logo=leetcode&logoColor=black" alt="Codolio" /></a>
+</p>
+
+### 🧠 Core Principles
+> **🔁 Consistency over perfection • 🧱 Discipline over motivation • ⚙️ Execution over noise • 🏆 Results over words**
 
 ## 🛠️ Tech Stack & Tools
 <p align="center">
