@@ -26,7 +26,6 @@ I am a passionate **Java & Spring Boot Developer** who loves building scalable a
 - 🌱 **Community:** Open-Source Contributions (GSSoC'25)
 
 <br>
-
 ### 📜 Coding Profiles & Socials
 <p align="left">
   <a href="https://www.jaythesiya.me/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
