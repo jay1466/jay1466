@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=JAY%20THESIYA&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=B.%20Tech%20IT%20%7C%20ADIT%20%7C%20Hackathon%20Winner%20and%20Open-Source%20Contributor&descAlignY=52&descSize=18&descColor=fff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=JAY%20THESIYA&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=B.%20Tech%20IT%20%7C%20ADIT%20%7C%20Open-Source%20Contributor&descAlignY=52&descSize=18&descColor=fff"/>
 
 </div>
 
@@ -44,8 +44,19 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40"/>
 </p>
 
-### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=jay1466&theme=dracula&no-frame=true&row=2&column=6" width="100%"/>
+### 🏅 Badges Earned (GSSOC'25)
+<p align="left">
+<img src="https://gssoc.girlscript.tech/badges/1.png?imwidth=256" width="70">
+<img src="https://gssoc.girlscript.tech/badges/2.png?imwidth=256" width="70">
+<img src="https://gssoc.girlscript.tech/badges/3.png?imwidth=256" width="70">
+<img src="https://gssoc.girlscript.tech/badges/4.png?imwidth=256" width="70">
+<img src="https://gssoc.girlscript.tech/badges/5.png?imwidth=256" width="70">
+<img src="https://gssoc.girlscript.tech/badges/6.png?imwidth=256" width="70">
+<br>
+<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png"  width="120">
+<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png"  width="120">
+<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png"  width="120">
+</p>
 
 ### 📊 GitHub Profile Summary
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jay1466&theme=github_dark" width="80%" />
