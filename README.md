@@ -100,7 +100,7 @@
 </p>
 
 <p>
-<img src="https://raw.githubusercontent.com/jay1466/jay1466/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/jay1466/jay1466/output/github-snake-dark.svg" width="100%"/>
 </p>
 
 ### 🧠 Core Principles
