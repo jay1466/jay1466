@@ -72,7 +72,7 @@ I am a passionate **Java & Spring Boot Developer** who loves building scalable a
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jay1466&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jay1466&theme=github-dark&hide_border=true" width="48%" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=jay1466&theme=github-dark&hide_border=true" width="48%" /> -->
 </div>
 <br>
 <div align="center">
