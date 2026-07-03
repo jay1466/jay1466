@@ -71,7 +71,6 @@ I am a passionate **Java & Spring Boot Developer** who loves building scalable a
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jay1466&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jay1466&theme=github-dark&hide_border=true" width="48%" />
 </div>
 <br>
