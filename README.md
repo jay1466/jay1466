@@ -74,10 +74,19 @@ I am a passionate **Java & Spring Boot Developer** who loves building scalable a
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jay1466&theme=github-dark&hide_border=true" width="48%" />
 </div>
 <br>
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jay1466&theme=github_dark" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jay1466&theme=github_dark" width="48%" />
+
+## 🏆 Unlocked Achievements
+
+<div align="center" dir="auto">
+<img src="https://github-profile-trophy.screw-hand.vercel.app/?username=jay1466&theme=dark_dimmed&no-bg=true&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" width="85%" />
 </div>
+
+<br/>
+
+<div align="center" dir="auto">
+  <code>🏆 TROPHY_CASE: FULL_WIDTH / MAXIMUM_GLORY 🏆</code>
+</div>
+
 
 ## 📈 Activity & Contributions
 
