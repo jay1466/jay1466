@@ -29,7 +29,7 @@ I am a passionate **Java & Spring Boot Developer** who loves building scalable a
 ### 📜 Coding Profiles & Socials
 
 <p align="left">
-  <a href="https://www.jaythesiya.me/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://jaythesiya.site/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/jay-thesiya/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://codolio.com/profile/jay1466"><img src="https://img.shields.io/badge/Codolio-FFB300?style=for-the-badge&logo=leetcode&logoColor=black" alt="Codolio" /></a>
   <br><br>
